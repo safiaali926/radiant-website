@@ -1,6 +1,3 @@
-import Image from "next/image";
-import Link from "next/link";
-
 function Footer() {
   return (<>
   <footer className="flex justify-around space-x-9 p-5 bg-gray-800">
